@@ -1,6 +1,9 @@
-hi its me Rajit Prajapati form Bhaktpaur.
+Rajit Prajapati
 
-Learning Python.
+Learning Python
 
-To reach me : Email[<pjptrajit@gmail.com>]
+To reach me:linkedin<https://www.linkedin.com/in/rajit-prajapati-554805235/>      
+
+            
+
 
