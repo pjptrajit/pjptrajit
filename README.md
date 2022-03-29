@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **linkedin [https://www.linkedin.com/in/pjptrajit/]
+- 📫 How to reach me **linkedin [https://www.linkedin.com/in/pjptrajit/]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
