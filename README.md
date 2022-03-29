@@ -1,5 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Rajit Prajapati</h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajit Prajapati</h1>
+<h3 align="center"></h3>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjptrajit&label=Profile%20views&color=0e75b6&style=flat" alt="pjptrajit" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pjptrajit" target="blank"><img src="https://img.shields.io/twitter/follow/pjptrajit?logo=twitter&style=for-the-badge" alt="pjptrajit" /></a> </p>
